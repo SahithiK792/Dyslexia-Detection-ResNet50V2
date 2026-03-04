@@ -1,4 +1,5 @@
 # Dyslexia Detection System using ResNet50V2
+Early-stage dyslexia screening tool using a ResNet50V2 deep learning model with 97% accuracy, deployed via Streamlit.
 
 ## 🚀 Project Overview
 This project is an early-stage screening tool designed to identify potential signs of dyslexia through image-based analysis. By leveraging Deep Learning, the system provides a high-accuracy, low-friction method for initial screening, making diagnostic resources more accessible.
