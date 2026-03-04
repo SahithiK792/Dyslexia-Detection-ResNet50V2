@@ -22,12 +22,18 @@ Due to GitHub's file size limitations, the trained model file (**resnet50_oversa
 3. Place it in the root directory of the project before running the application.
 
 ## 🧪 How to Run
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/SahithiK792/Dyslexia-Detection-ResNet50V2.git](https://github.com/SahithiK792/Dyslexia-Detection-ResNet50V2.git)# Dyslexia-De
-   tection-ResNet50V2
-Early-stage dyslexia screening tool using a ResNet50V2 deep learning model with 97% accuracy, deployed via Streamlit
-Install dependencies: This command installs all necessary libraries like TensorFlow and Streamlit at once:
+
+Copy and paste the following commands into your terminal to set up and launch the application:
+
+```bash
+# 1. Clone the repository
+git clone [https://github.com/SahithiK792/Dyslexia-Detection-ResNet50V2.git](https://github.com/SahithiK792/Dyslexia-Detection-ResNet50V2.git)
+
+# 2. Enter the project directory
+cd Dyslexia-Detection-ResNet50V2
+
+# 3. Install necessary dependencies (TensorFlow, Streamlit, etc.)
 pip install -r requirements.txt
-Launch the application: This starts the local web server and opens the screening tool in your browser:
+
+# 4. Launch the Streamlit application
 streamlit run app.py
